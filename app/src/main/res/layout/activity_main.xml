@@ -114,7 +114,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="30sp"
         android:fontFamily="@font/average"
-        android:text="@string/r_0"
+        android:text="@string/_0"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="28sp" />
